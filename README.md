@@ -1,7 +1,7 @@
 
-# Chat_App_Doogle
+# Chat_App:- Chat On
 ## Description of the Project
-This chat application DOOGLE helps one effortlessly  communicate with people anywhere in the world by sending and receiving messages in real time.This project provides the instant communication functionality between users. The users have the capability to do one to one communication and also they can communicate with in groupwhich is the most fascinating feature of this app. As a cherry on the top, the  User Authentication feature of this project boosts up its reliability of the users on DOOGLE.
+This chat application Chat On helps one effortlessly  communicate with people anywhere in the world by sending and receiving messages in real time.This project provides the instant communication functionality between users. The users have the capability to do one to one communication and also they can communicate with in groupwhich is the most fascinating feature of this app. As a cherry on the top, the  User Authentication feature of this project boosts up its reliability of the users on DOOGLE.
 
 
 ## Deployment
@@ -55,7 +55,7 @@ Socket.io version 4.5.4
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `User Id`      | `json` | Checks for the Id in the Database of Doogle |
+| `User Id`      | `json` | Checks for the Id in the Database of Chat On |
 
 #### Fetching Chats of a User
 
