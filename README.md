@@ -1,7 +1,7 @@
 
 # Chat_App:- Chat On
 ## Description of the Project
-This chat application Chat On helps one effortlessly  communicate with people anywhere in the world by sending and receiving messages in real time.This project provides the instant communication functionality between users. The users have the capability to do one to one communication and also they can communicate with in groupwhich is the most fascinating feature of this app. As a cherry on the top, the  User Authentication feature of this project boosts up its reliability of the users on DOOGLE.
+This chat application Chat On helps one effortlessly  communicate with people anywhere in the world by sending and receiving messages in real time.This project provides the instant communication functionality between users. The users have the capability to do one to one communication and also they can communicate with in groupwhich is the most fascinating feature of this app. As a cherry on the top, the  User Authentication feature of this project boosts up its reliability of the users on Chat On.
 
 
 ## Deployment
@@ -14,7 +14,7 @@ To deploy this project after cloning,  run
 
 Otherwise just click
 
-  [DOOGLE](https://chat-app-doogle.vercel.app/)
+  [Chat On](https://chat-app-doogle.vercel.app/)
 
 
 
@@ -148,17 +148,16 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-The Sign up page 
+The Login page-
 
-[![Chat-App-1.jpg](https://i.postimg.cc/QMQK9sNd/Chat-App-1.jpg)](https://postimg.cc/TyP3FzWz)
+The Sign up page-
 
-The login page
+One-to-One Users Chat Interface-
 
-[![Chat-app-2.jpg](https://i.postimg.cc/cH1Cvn5F/Chat-app-2.jpg)](https://postimg.cc/wtPgP7zN)
+Group Chat Description-
 
-Chatting Interface
+Group Chat Interface-
 
-[![Chat-App-4.jpg](https://i.postimg.cc/ZKNbKH5T/Chat-App-4.jpg)](https://postimg.cc/w768whNP)
 ## Acknowledgements
 
  - [React JS](https://reactjs.org/docs/getting-started.html)
