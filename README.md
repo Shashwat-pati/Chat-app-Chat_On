@@ -1,7 +1,7 @@
 
 # Chat_App:- Chat On
 ## Description of the Project
-This chat application Chat On helps one effortlessly  communicate with people anywhere in the world by sending and receiving messages in real time.This project provides the instant communication functionality between users. The users have the capability to do one to one communication and also they can communicate with in groupwhich is the most fascinating feature of this app. As a cherry on the top, the  User Authentication feature of this project boosts up its reliability of the users on DOOGLE.
+This chat application Chat On helps one effortlessly  communicate with people anywhere in the world by sending and receiving messages in real time.This project provides the instant communication functionality between users. The users have the capability to do one to one communication and also they can communicate with in groupwhich is the most fascinating feature of this app. As a cherry on the top, the  User Authentication feature of this project boosts up its reliability of the users on Chat On.
 
 
 ## Deployment
@@ -14,7 +14,7 @@ To deploy this project after cloning,  run
 
 Otherwise just click
 
-  [DOOGLE](https://chat-app-doogle.vercel.app/)
+  [Chat On](https://chat-app-doogle.vercel.app/)
 
 
 
@@ -148,17 +148,21 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-The Sign up page 
+The Login page-
+![user_Login](https://github.com/Shashwat-pati/Chat-app/assets/99614901/1ba5c440-f462-47db-851b-901c6758d08d)
 
-[![Chat-App-1.jpg](https://i.postimg.cc/QMQK9sNd/Chat-App-1.jpg)](https://postimg.cc/TyP3FzWz)
+The Sign up page-
+![user_signup](https://github.com/Shashwat-pati/Chat-app/assets/99614901/59cf171a-257a-45a2-93c9-6f9564ae96fe)
 
-The login page
+One-to-One Users Chat Interface-
+![users_chat](https://github.com/Shashwat-pati/Chat-app/assets/99614901/6b562950-9128-41f9-92fc-fdd28ac9d422)
 
-[![Chat-app-2.jpg](https://i.postimg.cc/cH1Cvn5F/Chat-app-2.jpg)](https://postimg.cc/wtPgP7zN)
+Group Chat Description-
+![group_chat_desc](https://github.com/Shashwat-pati/Chat-app/assets/99614901/f421bda0-e4a6-4645-8605-06b46f8cca4c)
 
-Chatting Interface
+Group Chat Interface-
+![group_chats](https://github.com/Shashwat-pati/Chat-app/assets/99614901/2325c94a-1052-4224-9e3c-7a76c6ccf297)
 
-[![Chat-App-4.jpg](https://i.postimg.cc/ZKNbKH5T/Chat-App-4.jpg)](https://postimg.cc/w768whNP)
 ## Acknowledgements
 
  - [React JS](https://reactjs.org/docs/getting-started.html)
