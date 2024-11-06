@@ -150,7 +150,7 @@ const SideDrawer = () => {
                     </Button>
                 </Tooltip>
                 <Text fontSize={"28px"} fontFamily="Work sans">
-                    Chat On
+                    Doogle
                 </Text>
                 <div>
                     <Menu>
